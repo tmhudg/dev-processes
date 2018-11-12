@@ -1,11 +1,11 @@
-* Build a New Site
+# Build a New Site
 
 Baisc steps here: https://codeburst.io/create-a-static-site-in-15-minutes-or-less-using-vue-js-e4e2a9945ee6
 
-* Install vue-cli
+# Install vue-cli
 npm install vue-cli -g
 
-* Create new project
+# Create new project
 vue init nuxt/starter <project-name>
   # Follow the command line instructions
   # (most defaults should be fine) so just press enter a few times
