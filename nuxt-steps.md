@@ -15,6 +15,12 @@ vue init nuxt/starter <project-name>
 cd <project-name>
 npm install
 ```
+# Initialize Git locally
+```
+git init      # initializes git
+git add .     # stages all files to be committed 
+git commit -m "Initial commit"
+```
 
 # Create an empty repo on GitHub
 
