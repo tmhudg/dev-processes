@@ -15,6 +15,8 @@ vue init nuxt/starter <project-name>
 cd <project-name>
 npm install
 ```
+or npx create-nuxt-app <project>
+  
 # Initialize Git locally
 ```
 git init      # initializes git
